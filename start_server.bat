@@ -1,0 +1,1 @@
+java -Xmx2g -Xms2g -jar forge-1.12.2-14.23.1.2583-universal.jar

@@ -1,0 +1,83 @@
+Version 0.3
+
+= Mods Added =
+UniDict
+Inventory Tweaks
+Mouse Tweaks
+Simple Gravel Ores
+
+= Mods Removed =
+Loot Bags
+Recurrent Complex
+
+= Tweaks/Fixes =
+Weather tweaked to be rarer/more impressive
+Tornadoes don't affect blocks
+Level Up! doesn't reset on death
+
+-------------------------
+
+Version 0.2
+
+= Mods Added =
+AppleSkin
+Natura
+InGame Info XML
+Nature's Compass
+Recurrent Complex
+Weather, Storms & Tornadoes
+Mapwriter 2
+
+= Mods Removed =
+Tough As Nails
+JourneyMap
+ArmorPlus
+Actually Additions
+Lycanites Mobs
+Gravestone mod - Extended
+
+= Tweaks/Fixes =
+JEI on server (allows recipes to populate properly)
+
+------------------------
+
+Version 0.1 (initial)
+
+= Mods Added =
+Actually Additions
+Animania
+ArmorPlus
+Aroma1997s Dimensional World
+Biomes O' Plenty
+Bloodmoon
+Botania
+Chisel
+Duck Craft
+Forestry
+Gravestone mod - Extended
+Gravestone mod - Graves
+Hunger Overhaul
+Immersive Engineering
+Iron Backpacks
+Iron Chests
+JourneyMap
+Just Enough Items
+Level Up!
+Loot Bags
+Lycanites Mobs
+Moar Tinkers
+Pam's Cookables
+Pam's HarvestCraft
+Roguelike Dungeons
+Roots
+Storage Drawers
+The Spice of Life
+The Twilight Forest
+Tinkers Construct
+Tinkers' Addons
+Tinkers' Complement
+Tinkers' Tool Leveling
+Totemic
+Tough As Nails
+Tree Chopper
+Waila Harvestability

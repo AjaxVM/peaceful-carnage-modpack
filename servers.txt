@@ -1,0 +1,22 @@
+Steps:
+
+Create directory to host server instance.
+
+Download/install server forge (version 1.12.2-14.23.1.2583).
+
+Your directory should look like:
+	./
+	libraries/
+	mods/
+	forge-1.12.2-14.23.1.2583-universal.jar
+	minecraft_server.1.12.2
+
+Copy the config directory from repo to your directory.
+
+After running the modpack client at least once, copy the mods directory from the client to the server.
+
+Remove any client-side config/mods listed in `client-side-mods.txt`
+
+Copy `start_server.bat` script to your directory to start the server on Windows (or use similar Java settings in other environments as are in the script).
+
+Make sure you accept the generated eula.txt

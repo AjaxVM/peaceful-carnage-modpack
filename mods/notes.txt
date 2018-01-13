@@ -1,0 +1,2 @@
+This will be used to hold (where appropriate) mods for the pack.
+For now though, contains the instance info for the TwitchLauncher.
