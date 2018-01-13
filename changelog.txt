@@ -12,6 +12,7 @@ BiblioCraft
 Storage Drawers Extras
 Default Options
 Mo'Villages
+Just Another Rotten Flesh to Leather Mod
 
 = Mods Updated =
 Baubles
@@ -55,6 +56,8 @@ Increased Village distance from Mo'Villages to vanilla level
 Added script to make HarvestCraft honeycomb work with crusher
 Disabled Immersive Engineering Ore spawn in overworld (might need to add other dimensions later?)
 Configured funore generation to happen more often with smaller veins (except for rare metals)
+We have aluminium now! Let the British accents flow...
+Hardmode zombie leather (4 rotten flesh -> 1 leather)
 
 = Performance Notes/Tweaks =
 usually maintains 1.6-3GB
