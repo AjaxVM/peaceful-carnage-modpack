@@ -1,4 +1,74 @@
-Version 0.3
+Version 0.4 - WIP
+
+= Mods Added =
+Rustic
+AbyssalCraft/AbyssalCraft Integration
+Bonsai Trees
+NetherPortalFix
+Environmental Creepers
+Floocraft
+Lucky Beans
+BiblioCraft
+Storage Drawers Extras
+Default Options
+Mo'Villages
+Just Another Rotten Flesh to Leather Mod
+
+= Mods Updated =
+Baubles
+Chisel
+JEI
+Natura
+Pam's HarvestCraft
+Tinkers Construct
+Totemic
+
+= Mods Removed =
+Aroma1997's Dimensional World
+	Does't seem like it is adding anything we need - we have plenty of other dimensions now
+UniDict
+	Wasn't doing what we hoped it would
+Forestry
+	Overloads bees (from HarvestCraft), very heavy, doesn't actualyl do anything we want in the pack
+
+= Config Tweaks =
+Gravel Ores frequency reduced and ores reweighted and reduced amount of ore in piles
+Bees rarer/harder to use
+Growth/milking/breading timers reduced slightly
+Reduced creeper chain reaction range
+Disable Rustic bees
+Reduce Abyssalcraft biome generation
+Disable Abyssalcraft evil animal spawns
+Enable Abyssalcraft hardcore mode (mobs are harder)
+Reduced spread of Pam's gardens
+Disabled Hunger Overhaul rightclick harvest (Harvestcraft handles)
+Disabled Hunger Overhaul modifying group drops on right click
+Disabled Hunger Overhaul instant death from starving
+Doubled Hunger Overhaul control for how long it takes for drying racks to dry food
+Disabled Hunger Overhaul changing food stack sizes
+Disabled Natura cotton (use pams)
+Disabled Natura wheat->flour recipe (use pams)
+Disabled Natura barley (use pams)
+Unsynced Storm generation from vanilla rain (more common)
+Reset Storm config to try to fix it back
+Made Storms not affect blocks, or destroy things on drop
+Disabled Rustic berry bushes (use natura)
+Enabled village spawning in a handful of BoP biomes
+Preliminarily hid some recipes in JEI
+Increased Village distance from Mo'Villages to vanilla level
+Added script to make HarvestCraft honeycomb work with crusher
+Disabled Immersive Engineering Ore spawn in overworld (might need to add other dimensions later?)
+Configured funore generation to happen more often with smaller veins (except for rare metals)
+We have aluminium now! Let the British accents flow...
+Hardmode zombie leather (4 rotten flesh -> 1 leather)
+
+= Performance Notes/Tweaks =
+usually maintains 1.6-3GB
+spikes up to 3.8GB (probably want to try to decrease to keep it at 3GB?)
+
+----------------------------
+
+Version 0.3 - Jan 7, 2018
 
 = Mods Added =
 UniDict
@@ -8,7 +78,9 @@ Simple Gravel Ores
 
 = Mods Removed =
 Loot Bags
+	Just brokenly OP, couldn't seem to fix at all through config alone
 Recurrent Complex
+	Made other structures too rare, laggy, giant trees had no leaves
 
 = Tweaks/Fixes =
 Weather tweaked to be rarer/more impressive
@@ -17,7 +89,7 @@ Level Up! doesn't reset on death
 
 -------------------------
 
-Version 0.2
+Version 0.2 - Jan 6, 2018
 
 = Mods Added =
 AppleSkin
@@ -30,18 +102,25 @@ Mapwriter 2
 
 = Mods Removed =
 Tough As Nails
+	Just too hard with Hunger Overhaul/Spice of Life at the moment - forced focus on the wrong thing
 JourneyMap
+	Too bloated for what I want - not as simple/easy to use
 ArmorPlus
+	We have no need for this sort of late-game armor just yet
+	Would rather focus on variety of offensive tools to avoid immortality
 Actually Additions
+	Some OP stuff - don't really need anything from it
 Lycanites Mobs
+	Too difficult in combination with other early game factors - makes surface harder than desired
 Gravestone mod - Extended
+	Current version is broken for servers :(
 
 = Tweaks/Fixes =
 JEI on server (allows recipes to populate properly)
 
 ------------------------
 
-Version 0.1 (initial)
+Version 0.1 (initial) - Jan 4, 2018
 
 = Mods Added =
 Actually Additions
