@@ -1,3 +1,67 @@
+Version 0.4 - WIP
+
+= Mods Added =
+Rustic
+AbyssalCraft/AbyssalCraft Integration
+Bonsai Trees
+NetherPortalFix
+Environmental Creepers
+Floocraft
+Lucky Beans
+BiblioCraft
+Storage Drawers Extras
+Default Options
+Mo'Villages
+
+= Mods Updated =
+Baubles
+Chisel
+JEI
+Natura
+Pam's HarvestCraft
+Tinkers Construct
+Totemic
+
+= Mods Removed =
+Aroma1997's Dimensional World
+UniDict
+Forestry
+
+= Config Tweaks =
+Gravel Ores frequency reduced and ores reweighted and reduced amount of ore in piles
+Bees rarer/harder to use
+Growth/milking/breading timers reduced slightly
+Reduced creeper chain reaction range
+Disable Rustic bees
+Reduce Abyssalcraft biome generation
+Disable Abyssalcraft evil animal spawns
+Enable Abyssalcraft hardcore mode (mobs are harder)
+Reduced spread of Pam's gardens
+Disabled Hunger Overhaul rightclick harvest (Harvestcraft handles)
+Disabled Hunger Overhaul modifying group drops on right click
+Disabled Hunger Overhaul instant death from starving
+Doubled Hunger Overhaul control for how long it takes for drying racks to dry food
+Disabled Hunger Overhaul changing food stack sizes
+Disabled Natura cotton (use pams)
+Disabled Natura wheat->flour recipe (use pams)
+Disabled Natura barley (use pams)
+Unsynced Storm generation from vanilla rain (more common)
+Reset Storm config to try to fix it back
+Made Storms not affect blocks, or destroy things on drop
+Disabled Rustic berry bushes (use natura)
+Enabled village spawning in a handful of BoP biomes
+Preliminarily hid some recipes in JEI
+Increased Village distance from Mo'Villages to vanilla level
+Added script to make HarvestCraft honeycomb work with crusher
+Disabled Immersive Engineering Ore spawn in overworld (might need to add other dimensions later?)
+Configured funore generation to happen more often with smaller veins (except for rare metals)
+
+= Performance Notes/Tweaks =
+usually maintains 1.6-3GB
+spikes up to 3.8GB (probably want to try to decrease to keep it at 3GB?)
+
+----------------------------
+
 Version 0.3
 
 = Mods Added =

@@ -2,3 +2,4 @@ MapWriter
 MouseTweaks
 InGameInfoXML
 WAILA/HWYLA
+DefaultOptions
