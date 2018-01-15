@@ -20,6 +20,7 @@ Good luck, and have fun!
 
 # Server local setup
 _**NOTE**: this is for windows - though instructions should be similar for any system_
+
 _**NOTE**: you may not need all these steps for hosted system that automatically support forge_
 1) Download the windows installer for forge for Minecraft 1.12.2 (I have built most recently off of "forge-1.12.2-14.23.1.2583" - mileage may vary with newer/older forge version)
 2) Run installer and create a directory for your server it installs into.
