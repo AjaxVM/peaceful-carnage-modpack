@@ -1,15 +1,22 @@
-Version 0.5 - WIP
+Version 0.5 - Jan 15, 2018
 
 = Mods Removed =
-Bonsai Trees - Issues #18,#20
+Bonsai Trees - Issue #18,#20
+Weather, Storms & Tornadoes - Issue #21,#27
+Lucky Beans - Issue #10
 
 = Config Tweaks =
 Addressed immersive engineering ore generation (again) - Issue #6
 Made TiC prefer funores over IE ores
+Disabled some hungry/injured effects - Issue #7
+Disable TreeChopper for Lumberjack axe (let's it be used for more efficient cutting) - Issue #8
+Made HarvestCraft and Rustic play together/removed rustic plants - Issue #11
+Reduced amount of crops gotten from harvesting - Issue #15
+Disabled Trees dropping unripe fruit, again - Issue #17
 
 -------------------------
 
-Version 0.4
+Version 0.4 - Jan 13, 2018
 
 = Mods Added =
 Rustic
