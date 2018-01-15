@@ -12,7 +12,7 @@ Basically, this pack builds around a few core mods (Tinkers Construct, HarvestCr
 4) Select the twitch-export file you downloaded above, then click "Okay".
 5) Then, click on the "Peaceful Carnage" profile (not the "Play" button).
 6) In the top-right, you will notice a button with 3 vertical dots, click that then select "Profile Options".
-7) Under "Memory Settings", ensure "Use System Setting" is unchecked, and that at least 4GB of memory is selected with the slider, then click "Okay".
+7) Under "Memory Settings", ensure "Use System Setting" is unchecked, and that at least 4GB (5GB recommended, should run on 3.5GB) of memory is selected with the slider, then click "Okay".
 8) You should be able to click play on the profile and be ready to go at that point.
 
 If you run into any issues, please check the [Installation Tips and Tricks page](https://github.com/AjaxVM/peaceful-carnage-modpack/wiki/Installation-Tips-and-Tricks).
