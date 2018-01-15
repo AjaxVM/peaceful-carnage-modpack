@@ -30,8 +30,8 @@
   "allocatedMemory": 5014,
   "guid": "f103d236-b9f5-4349-8c4a-3577c22bd16e",
   "gameTypeID": 432,
-  "installPath": "D:\\TwitchLauncher\\Minecraft\\Instances\\Peaceful Carnage (1)\\",
-  "name": "Peaceful Carnage (1)",
+  "installPath": "D:\\TwitchLauncher\\Minecraft\\Instances\\Peaceful Carnage\\",
+  "name": "Peaceful Carnage",
   "cachedScans": [
     {
       "folderName": "FunOres-1.12-1.5.7-118.jar",
