@@ -1,1 +1,0 @@
-mods.rustic.CrushingTub.addRecipe(<liquid:honey>, null, <harvestcraft:honeycombitem>);
