@@ -32,3 +32,4 @@ _**NOTE**: you may not need all these steps for hosted system that automatically
 5) From this repository, copy the start_server.bat into the directory created in step 2.
 6) **Optional** Refer to the "client-side-mods.txt" file in this repository to remove configs/mods from directory created in step 2 that are not needed.
 7) Double click "start_server.bat" to start the server.
+_**NOTE**_Server should be configured with "allow_flight=true" in server.properties or Tornadoes can kick players :D
