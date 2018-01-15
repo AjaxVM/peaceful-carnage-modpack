@@ -1,4 +1,15 @@
-Version 0.4 - WIP
+Version 0.5 - WIP
+
+= Mods Removed =
+Bonsai Trees - Issues #18,#20
+
+= Config Tweaks =
+Addressed immersive engineering ore generation (again) - Issue #6
+Made TiC prefer funores over IE ores
+
+-------------------------
+
+Version 0.4
 
 = Mods Added =
 Rustic
