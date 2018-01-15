@@ -19,12 +19,12 @@ If things are still not working, please file an issue!
 Good luck, and have fun!
 
 # Server local setup
-_*NOTE*: this is for windows - though instructions should be similar for any system_
-_*NOTE*: you may not need all these steps for hosted system that automatically support forge_
+_**NOTE**: this is for windows - though instructions should be similar for any system_
+_**NOTE**: you may not need all these steps for hosted system that automatically support forge_
 1) Download the windows installer for forge for Minecraft 1.12.2 (I have built most recently off of "forge-1.12.2-14.23.1.2583" - mileage may vary with newer/older forge version)
 2) Run installer and create a directory for your server it installs into.
 3) After running the ModPack in singleplayer at least once, you can click the three vertical dots (refer to Installation instructions step 6) and select "Open Folder".
 4) Copy the "mods", "config", and "scripts" directories from the Twitch Instance directory to the one you created in step 2.
 5) From this repository, copy the start_server.bat into the directory created in step 2.
-6) *Optional* Refer to the "client-side-mods.txt" file in this repository to remove configs/mods from directory created in step 2 that are not needed.
+6) **Optional** Refer to the "client-side-mods.txt" file in this repository to remove configs/mods from directory created in step 2 that are not needed.
 7) Double click "start_server.bat" to start the server.
