@@ -1,0 +1,194 @@
+{
+  "FatherToast": {
+    "weight": 10
+  },
+  "GiantWaffle": {
+    "weight": 10
+  },
+  "Gen_Deathrow": {
+    "weight": 10,
+    "specialDrops": [
+      {
+        "itemID": "minecraft:cookie",
+        "metaID": 0,
+        "chance": 0.2,
+        "qty": 1,
+        "nbt": {
+          "display": {
+            "Lore": [
+              "Here have a cookie for your troubles.",
+              "Your Friend,",
+              "   GenDeathrow"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "Xephos": {
+    "weight": 10
+  },
+  "EvilSeph": {
+    "weight": 10
+  },
+  "ganymedes01": {
+    "weight": 10
+  },
+  "jeb_": {
+    "weight": 10
+  },
+  "DatFailGamur": {
+    "weight": 10
+  },
+  "Vazkii": {
+    "weight": 10
+  },
+  "SlothMonster_": {
+    "weight": 10
+  },
+  "SinfulDeity": {
+    "weight": 10
+  },
+  "GWSheridan": {
+    "weight": 10
+  },
+  "LexManos": {
+    "weight": 10
+  },
+  "iChun": {
+    "weight": 10
+  },
+  "TheMattaBase": {
+    "weight": 10
+  },
+  "PurpleMentat": {
+    "weight": 10
+  },
+  "Notch": {
+    "weight": 10
+  },
+  "C418": {
+    "weight": 10
+  },
+  "Turkey2349": {
+    "weight": 10
+  },
+  "Pahimar": {
+    "weight": 10
+  },
+  "KingLemming": {
+    "weight": 10
+  },
+  "direwolf20": {
+    "weight": 10
+  },
+  "SethBling": {
+    "weight": 10
+  },
+  "Funwayguy": {
+    "weight": 10
+  },
+  "Etho": {
+    "weight": 10
+  },
+  "Dinnerbone": {
+    "weight": 10
+  },
+  "darkphan": {
+    "weight": 10
+  },
+  "TheMogMiner": {
+    "weight": 10
+  },
+  "Kashdeya": {
+    "weight": 10
+  },
+  "Gooderness": {
+    "weight": 10
+  },
+  "carnalizer": {
+    "weight": 10
+  },
+  "CrustyMustard": {
+    "weight": 10
+  },
+  "Wyld": {
+    "weight": 10
+  },
+  "tfox83": {
+    "weight": 10
+  },
+  "Jsl7": {
+    "weight": 10
+  },
+  "Bacon_Donut": {
+    "weight": 10
+  },
+  "Darkosto": {
+    "weight": 10,
+    "specialDrops": [
+      {
+        "itemID": "minecraft:stick",
+        "metaID": 0,
+        "chance": 0.2,
+        "qty": 1,
+        "nbt": {
+          "display": {
+            "Name": "Builders Wand"
+          }
+        }
+      }
+    ]
+  },
+  "ProfMobius": {
+    "weight": 10
+  },
+  "Kehaan": {
+    "weight": 10
+  },
+  "slowpoke101": {
+    "weight": 10
+  },
+  "DanTDM": {
+    "weight": 10
+  },
+  "vadis365": {
+    "weight": 10
+  },
+  "Searge_DP": {
+    "weight": 10
+  },
+  "cpw11": {
+    "weight": 10
+  },
+  "Sevadus": {
+    "weight": 10
+  },
+  "Soaryn": {
+    "weight": 10
+  },
+  "WayofFlowingTime": {
+    "weight": 10
+  },
+  "Sacheverell": {
+    "weight": 10
+  },
+  "Grumm": {
+    "weight": 10
+  },
+  "ZeldoKavira": {
+    "weight": 10
+  },
+  "Vash505": {
+    "weight": 10
+  },
+  "ChimneySwift": {
+    "weight": 10
+  },
+  "CaptainSparklez": {
+    "weight": 10
+  },
+  "Sjin": {
+    "weight": 10
+  }
+}
