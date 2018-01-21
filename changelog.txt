@@ -1,3 +1,31 @@
+# 1.6 Update
+
+= Mods removed =
+TreeChopper (replaced w/ TreeCapicator)
+Animania (by the community)
+
+= Mods Added =
+Player Skin Mod (Basically headcrums in 1.12)
+Recurrent Complex (with less lag)
+IV Toolkit (Core for Reccurent Complex)
+Ruins (a mod to spawn strucutres)
+Tree Capicator
+Dungeons2 (dungeon based mod)
+Gottishcore (core for Dungeons2)
+MistBiomes
+MistCore (core for MistBiomes)
+
+= Updated Mods =
+Pam's Harvest Craft: 1.12.2g > 1.12.2L
+HungerOvehaul: 1.3.0.jenkins131 > 1.3.0.jenkins139
+DuckCraft: 1.12.2-3.0.7 > 1.12.2-3.0.8
+CTM: MC1.12-0.2.3.9 > MC1.12-0.2.3.12
+BiomesOPlenty: - 1.12.2-7.0.1.2312 > 1.12.2-7.0.1.2313
+IronBackpacks: 1.12.2-3.0.2-3 > 1.12.2-3.0.4
+Level Up!: 2-1.1.14-1.12 > 2-1.1.15-1.12
+jei: 1.12.2-4.8.5.144 > 1.12.204.8.5.146
+
+
 Version 0.5 - Jan 15, 2018
 
 = Mods Removed =
