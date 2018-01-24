@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-01-24T05:10:27.016017Z",
+  "lastPlayed": "2018-01-24T05:20:37.0272182Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -4854,6 +4854,112 @@
       "dateInstalled": "2018-01-24T05:09:53.6245533Z",
       "dateUpdated": "2018-01-24T05:09:53.6250558Z",
       "dateLastUpdateAttempted": "2018-01-24T05:09:53.6250558Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 235261,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2448283,
+        "FileName": "JustAFewFish-1.7_for_1.12.jar",
+        "FileNameOnDisk": "JustAFewFish-1.7_for_1.12.jar",
+        "FileDate": "2017-07-09T22:53:38.643",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2448/283/JustAFewFish-1.7_for_1.12.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 1649005827
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 1537930456
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2097981555
+          }
+        ],
+        "PackageFingerprint": 3718830303,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2018-01-24T05:20:22.4840854Z",
+      "dateUpdated": "2018-01-24T05:20:22.485091Z",
+      "dateLastUpdateAttempted": "2018-01-24T05:20:22.485091Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 248994,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2499501,
+        "FileName": "CoralReef-2.2-1.12.2.jar",
+        "FileNameOnDisk": "CoralReef-2.2-1.12.2.jar",
+        "FileDate": "2017-11-12T17:29:52.93",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2499/501/CoralReef-2.2-1.12.2.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 495712611
+          },
+          {
+            "Foldername": "primetoxinz",
+            "Fingerprint": 1153637846
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1823435577
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3803730083
+          }
+        ],
+        "PackageFingerprint": 2101553901,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2018-01-24T05:20:28.3741921Z",
+      "dateUpdated": "2018-01-24T05:20:28.3756967Z",
+      "dateLastUpdateAttempted": "2018-01-24T05:20:28.3756967Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
