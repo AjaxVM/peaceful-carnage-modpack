@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-01-24T00:41:20.9702869Z",
+  "lastPlayed": "2018-01-24T02:26:10.5125595Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -77,21 +77,6 @@
       "queryTimestamp": "2018-01-24T00:40:53.6617979Z",
       "fileCount": 1,
       "fileSize": 0
-    },
-    {
-      "folderName": "TreeChopper-1.12.2-1.2.4.jar",
-      "fingerprint": 1133542787,
-      "fileDateHash": 876461642,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1133542787
-      ],
-      "status": 1,
-      "timestamp": "2018-01-24T00:40:49.0410327Z",
-      "lastWriteTimeUtc": "2018-01-03T02:36:14.0040262Z",
-      "queryTimestamp": "2018-01-24T00:40:50.2744275Z",
-      "fileCount": 1,
-      "fileSize": 124729
     },
     {
       "folderName": "TConstruct-1.12.2-2.9.0.55.jar",
@@ -2571,57 +2556,6 @@
       "manifestName": null
     },
     {
-      "addonID": 250241,
-      "gameInstanceID": "237fc7a1-a039-439c-a4fb-6af13a8f0207",
-      "installedFile": {
-        "Id": 2492770,
-        "FileName": "TreeChopper-1.12.2-1.2.4.jar",
-        "FileNameOnDisk": "TreeChopper-1.12.2-1.2.4.jar",
-        "FileDate": "2017-10-21T10:08:15.983",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2492/770/TreeChopper-1.12.2-1.2.4.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "treechopper",
-            "Fingerprint": 2205613867
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 149132765
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1937394740
-          }
-        ],
-        "PackageFingerprint": 1133542787,
-        "GameVersion": [
-          "1.12.2"
-        ]
-      },
-      "dateInstalled": "2018-01-03T02:36:14.0040262Z",
-      "dateUpdated": "2018-01-03T02:36:14.0055308Z",
-      "dateLastUpdateAttempted": "2018-01-03T02:36:14.0055308Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 227083,
       "gameInstanceID": "237fc7a1-a039-439c-a4fb-6af13a8f0207",
       "installedFile": {
@@ -4701,6 +4635,188 @@
       "dateUpdated": "2018-01-13T21:23:51.0064159Z",
       "dateLastUpdateAttempted": "2018-01-13T21:23:51.0064159Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 230976,
+      "gameInstanceID": "237fc7a1-a039-439c-a4fb-6af13a8f0207",
+      "installedFile": {
+        "Id": 2463272,
+        "FileName": "FastLeafDecay-v14.jar",
+        "FileNameOnDisk": "FastLeafDecay-v14.jar",
+        "FileDate": "2017-08-11T18:57:44.643",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2463/272/FastLeafDecay-v14.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 1898342243
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3125410211
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3273911401
+          }
+        ],
+        "PackageFingerprint": 1940914729,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1"
+        ]
+      },
+      "dateInstalled": "2018-01-24T02:22:09.9140252Z",
+      "dateUpdated": "2018-01-24T02:22:09.9165351Z",
+      "dateLastUpdateAttempted": "2018-01-24T02:22:09.9165351Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 248453,
+      "gameInstanceID": "237fc7a1-a039-439c-a4fb-6af13a8f0207",
+      "installedFile": {
+        "Id": 2505090,
+        "FileName": "Forgelin-1.6.0.jar",
+        "FileNameOnDisk": "Forgelin-1.6.0.jar",
+        "FileDate": "2017-11-30T18:29:03.05",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2505/90/Forgelin-1.6.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 110195655
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 527992374
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3644834369
+          },
+          {
+            "Foldername": "dummyThing",
+            "Fingerprint": 79582461
+          },
+          {
+            "Foldername": "kotlin",
+            "Fingerprint": 440193824
+          },
+          {
+            "Foldername": "kotlinx",
+            "Fingerprint": 129677042
+          },
+          {
+            "Foldername": "org",
+            "Fingerprint": 2100753878
+          }
+        ],
+        "PackageFingerprint": 3564778299,
+        "GameVersion": [
+          "1.12.2",
+          "1.12",
+          "1.11.2",
+          "1.11",
+          "1.10.2",
+          "1.9.4"
+        ]
+      },
+      "dateInstalled": "2018-01-24T02:25:54.8579674Z",
+      "dateUpdated": "2018-01-24T02:25:54.8619811Z",
+      "dateLastUpdateAttempted": "2018-01-24T02:25:54.8619811Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 267227,
+      "gameInstanceID": "237fc7a1-a039-439c-a4fb-6af13a8f0207",
+      "installedFile": {
+        "Id": 2522575,
+        "FileName": "ToolTweaks 1.0.7",
+        "FileNameOnDisk": "tooltweaks-1.0.7.jar",
+        "FileDate": "2018-01-21T12:11:42.023",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2522/575/tooltweaks-1.0.7.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 248453,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2351495137
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2121401651
+          },
+          {
+            "Foldername": "de",
+            "Fingerprint": 3459602857
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1548722548
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 1854472992
+          }
+        ],
+        "PackageFingerprint": 3548804514,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2018-01-24T02:25:55.0576672Z",
+      "dateUpdated": "2018-01-24T02:25:55.0586721Z",
+      "dateLastUpdateAttempted": "2018-01-24T02:25:55.0586721Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
