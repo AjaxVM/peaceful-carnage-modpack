@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-01-25T02:39:36.0313658Z",
+  "lastPlayed": "2018-01-25T03:19:53.798415Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5134,16 +5134,16 @@
       "manifestName": null
     },
     {
-      "addonID": 77286,
+      "addonID": 263442,
       "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
       "installedFile": {
-        "Id": 2483855,
-        "FileName": "RadixCore-1.12.x-2.2.1-universal.jar",
-        "FileNameOnDisk": "RadixCore-1.12.x-2.2.1-universal.jar",
-        "FileDate": "2017-09-24T23:30:21.977",
+        "Id": 2520916,
+        "FileName": "Animalium-0.3.6.jar",
+        "FileNameOnDisk": "Animalium-0.3.6.jar",
+        "FileDate": "2018-01-16T14:18:29.84",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://files.forgecdn.net/files/2483/855/RadixCore-1.12.x-2.2.1-universal.jar",
+        "DownloadURL": "https://files.forgecdn.net/files/2520/916/Animalium-0.3.6.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -5154,32 +5154,26 @@
             "Fingerprint": 2464251221
           },
           {
-            "Foldername": "radixcore",
-            "Fingerprint": 1677147831
+            "Foldername": "animalium",
+            "Fingerprint": 2847623396
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2745784271
+            "Fingerprint": 85437743
           },
           {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3632250676
-          },
-          {
-            "Foldername": "radixcore.png",
-            "Fingerprint": 816413148
+            "Foldername": "assets",
+            "Fingerprint": 1816610827
           }
         ],
-        "PackageFingerprint": 1993729519,
+        "PackageFingerprint": 2198567289,
         "GameVersion": [
-          "1.12.2",
-          "1.12.1",
-          "1.12"
+          "1.12.2"
         ]
       },
-      "dateInstalled": "2018-01-25T02:38:23.9107833Z",
-      "dateUpdated": "2018-01-25T02:38:23.9122865Z",
-      "dateLastUpdateAttempted": "2018-01-25T02:38:23.9122865Z",
+      "dateInstalled": "2018-01-25T03:09:20.09563Z",
+      "dateUpdated": "2018-01-25T03:09:20.0976367Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:09:20.0976367Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -5191,21 +5185,190 @@
       "manifestName": null
     },
     {
-      "addonID": 59693,
+      "addonID": 246006,
       "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
       "installedFile": {
-        "Id": 2483852,
-        "FileName": "MCA-1.12.x-5.3.1-universal.jar",
-        "FileNameOnDisk": "MCA-1.12.x-5.3.1-universal.jar",
-        "FileDate": "2017-09-24T23:27:06.363",
+        "Id": 2485679,
+        "FileName": "betteragriculture-1.12.2-1.2.1",
+        "FileNameOnDisk": "betteragriculture-1.12.2-1.2.1.jar",
+        "FileDate": "2017-09-30T06:00:14.497",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2485/679/betteragriculture-1.12.2-1.2.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 4272042726
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3064763322
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3256681503
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3375548020
+          }
+        ],
+        "PackageFingerprint": 3295928502,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-01-25T03:10:25.5228466Z",
+      "dateUpdated": "2018-01-25T03:10:25.5243519Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:10:25.5243519Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 77994,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2523368,
+        "FileName": "reptilemod-1.12.2-3.8.4-80.jar",
+        "FileNameOnDisk": "reptilemod-1.12.2-3.8.4-80.jar",
+        "FileDate": "2018-01-23T17:37:33.493",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://files.forgecdn.net/files/2483/852/MCA-1.12.x-5.3.1-universal.jar",
+        "DownloadURL": "https://files.forgecdn.net/files/2523/368/reptilemod-1.12.2-3.8.4-80.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 76249924
+          },
+          {
+            "Foldername": "pack.png",
+            "Fingerprint": 592358222
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2581229212
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 701943615
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 458132339
+          }
+        ],
+        "PackageFingerprint": 1665332546,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-01-25T03:10:36.2000384Z",
+      "dateUpdated": "2018-01-25T03:10:36.2015437Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:10:36.2015437Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 277064,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2506916,
+        "FileName": "elulib-0.1.11.jar",
+        "FileNameOnDisk": "elulib-0.1.11.jar",
+        "FileDate": "2017-12-05T22:00:10.083",
+        "ReleaseType": 2,
+        "FileStatus": 9,
+        "DownloadURL": "https://files.forgecdn.net/files/2506/916/elulib-0.1.11.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": false,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3445250716
+          },
+          {
+            "Foldername": "elucent",
+            "Fingerprint": 1363799078
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4057197346
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4220613166
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3273911401
+          }
+        ],
+        "PackageFingerprint": 3489609437,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-01-25T03:11:09.4553961Z",
+      "dateUpdated": "2018-01-25T03:11:09.4574045Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:11:09.4574045Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 282940,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2505994,
+        "FileName": "mysticalworld-0.1.1.jar",
+        "FileNameOnDisk": "mysticalworld-0.1.1.jar",
+        "FileDate": "2017-12-03T08:22:26.983",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2505/994/mysticalworld-0.1.1.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
           {
-            "AddOnId": 77286,
+            "AddOnId": 277064,
             "Type": 1
           }
         ],
@@ -5216,36 +5379,30 @@
             "Fingerprint": 2464251221
           },
           {
-            "Foldername": "mca",
-            "Fingerprint": 307091644
-          },
-          {
-            "Foldername": "mca.png",
-            "Fingerprint": 2383225420
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2128402938
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 2084221839
+            "Foldername": "elucent",
+            "Fingerprint": 3131907981
           },
           {
             "Foldername": "assets",
-            "Fingerprint": 2638498624
+            "Fingerprint": 1515070843
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2804005630
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3273911401
           }
         ],
-        "PackageFingerprint": 2789216590,
+        "PackageFingerprint": 2973882825,
         "GameVersion": [
-          "1.12.2",
-          "1.12.1",
-          "1.12"
+          "1.12.2"
         ]
       },
-      "dateInstalled": "2018-01-25T02:38:25.8016713Z",
-      "dateUpdated": "2018-01-25T02:38:25.805684Z",
-      "dateLastUpdateAttempted": "2018-01-25T02:38:25.805684Z",
+      "dateInstalled": "2018-01-25T03:11:09.7732013Z",
+      "dateUpdated": "2018-01-25T03:11:09.7752084Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:11:09.7752084Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
