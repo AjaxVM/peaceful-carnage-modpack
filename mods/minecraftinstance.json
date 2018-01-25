@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-01-25T03:47:37.6867436Z",
+  "lastPlayed": "2018-01-25T04:10:02.0635795Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5403,6 +5403,243 @@
       "dateInstalled": "2018-01-25T03:11:09.7732013Z",
       "dateUpdated": "2018-01-25T03:11:09.7752084Z",
       "dateLastUpdateAttempted": "2018-01-25T03:11:09.7752084Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 246795,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2515257,
+        "FileName": "ViesCraft-1.12.2-5.6.1.jar",
+        "FileNameOnDisk": "ViesCraft-1.12.2-5.6.1.jar",
+        "FileDate": "2017-12-31T02:45:51.393",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2515/257/ViesCraft-1.12.2-5.6.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "com",
+            "Fingerprint": 3768188839
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 4134327835
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3197726037
+          }
+        ],
+        "PackageFingerprint": 4261712847,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-01-25T03:50:44.3292297Z",
+      "dateUpdated": "2018-01-25T03:50:44.3533114Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:50:44.3533114Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 268249,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2507116,
+        "FileName": "ViesCraftTweaker-1.12.2-2.3.10.jar",
+        "FileNameOnDisk": "ViesCraftTweaker-1.12.2-2.3.10.jar",
+        "FileDate": "2017-12-06T16:56:12.263",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2507/116/ViesCraftTweaker-1.12.2-2.3.10.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1944218208
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2128213897
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3645888859
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 3848226620
+          },
+          {
+            "Foldername": "se",
+            "Fingerprint": 1326190480
+          }
+        ],
+        "PackageFingerprint": 224139123,
+        "GameVersion": [
+          "1.12.2"
+        ]
+      },
+      "dateInstalled": "2018-01-25T03:50:45.787877Z",
+      "dateUpdated": "2018-01-25T03:50:45.7893829Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:50:45.7893829Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 71738,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2522314,
+        "FileName": "shetiphiancore-1.12.0-3.5.6.jar",
+        "FileNameOnDisk": "shetiphiancore-1.12.0-3.5.6.jar",
+        "FileDate": "2018-01-20T18:25:19.52",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2522/314/shetiphiancore-1.12.0-3.5.6.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 954371277
+          },
+          {
+            "Foldername": "shetiphian",
+            "Fingerprint": 1534135245
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2493362397
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1402952400
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 1004257266
+          },
+          {
+            "Foldername": "shetiphiancore.png",
+            "Fingerprint": 99208122
+          }
+        ],
+        "PackageFingerprint": 821740927,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2018-01-25T03:51:31.1048689Z",
+      "dateUpdated": "2018-01-25T03:51:31.1063748Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:51:31.1063748Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 244864,
+      "gameInstanceID": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
+      "installedFile": {
+        "Id": 2503501,
+        "FileName": "multistorage-1.12.0-1.4.7.jar",
+        "FileNameOnDisk": "multistorage-1.12.0-1.4.7.jar",
+        "FileDate": "2017-11-25T23:43:32.563",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2503/501/multistorage-1.12.0-1.4.7.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 71738,
+            "Type": 1
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3063293805
+          },
+          {
+            "Foldername": "invtweaks",
+            "Fingerprint": 272142272
+          },
+          {
+            "Foldername": "shetiphian",
+            "Fingerprint": 701950596
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3628889808
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2120435004
+          },
+          {
+            "Foldername": "multistorage.png",
+            "Fingerprint": 5016300
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 1004257266
+          }
+        ],
+        "PackageFingerprint": 2585300494,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2018-01-25T03:51:31.5192152Z",
+      "dateUpdated": "2018-01-25T03:51:31.5212219Z",
+      "dateLastUpdateAttempted": "2018-01-25T03:51:31.5212219Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
