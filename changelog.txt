@@ -1,3 +1,51 @@
+
+Version 0.6 - Jan 25, 2018
+
+= Mods Added =
+Gravestone mod - Extended
+NetherEx
+PlusTiC
+Animalium
+Astral Sorcery
+Better Agriculture
+CoralReef
+Dirt2Path
+Fast Leaf Decay
+Just a Few Fish
+MultiStorage
+Reptile Mod
+Spawn Temple
+Tool Tweaks
+ToroQuest
+ViesCraft
+
+= Mods Updated =
+Baubles (downgraded for compatability with Botania)
+HarvestCraft - Issue #35
+
+= Mods Removed =
+Animania
+TreeChopper
+
+= Config Tweaks =
+Village distance increased (no more LOS between villages!) - Issue #38
+Increased Bloodmoon frequency - Issue #54
+Reverted funores ore distribution change - Issue #39
+Increased amount of beehive spawns
+Reduced some of the timers/penalities for growing crops from HungerOverhaul - Issue #33
+Removed HarvestCraft adding food to chest loot - Issue #48
+Disabled PlusTiC laser and some overlapping ores from Moar Tinkers
+Disabled Rustic Slate (Better Agriculture is better, only thing is the roof from Rustic might need integration)
+Disabled Vanilla tools past wood - Issue #61
+Added mud -> mud balls recipe
+Added clay recipe (mud ball, stone, slimeball)
+Removed rustic apiary - Issue #52
+Updated InGameInfo to have ping and show a "LevelUp" announcement when you are at >10 levels
+Disabled some non-vanilla "vanilla-like" tools, and labelled them as "Prototype" to avoid confusion
+
+
+-------------------------
+
 Version 0.5 - Jan 15, 2018
 
 = Mods Removed =
