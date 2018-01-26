@@ -28,10 +28,21 @@
             </max>
             <var>light</var>
         </line>
+        <line>
+            <if>
+                <greater>
+                    <var>playerlevel</var>
+                    <num>10</num>
+                </greater>
+                <str>$6Level Up $f($3L$f)</str>
+                <str></str>
+            </if>
+        </line>
     </lines>
     <lines at="topright">
         <line>
-            <str>FPS: </str>
+            <var>pingicon</var>
+            <str> FPS: </str>
             <operation>
                 <str>gt</str>
                 <var>fps</var>
