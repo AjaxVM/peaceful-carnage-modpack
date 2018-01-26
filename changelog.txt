@@ -1,5 +1,5 @@
 
-Version 0.6 - Jan 24, 2018
+Version 0.6 - Jan 25, 2018
 
 = Mods Added =
 Gravestone mod - Extended
@@ -40,6 +40,8 @@ Disabled Vanilla tools past wood - Issue #61
 Added mud -> mud balls recipe
 Added clay recipe (mud ball, stone, slimeball)
 Removed rustic apiary - Issue #52
+Updated InGameInfo to have ping and show a "LevelUp" announcement when you are at >10 levels
+Disabled some non-vanilla "vanilla-like" tools, and labelled them as "Prototype" to avoid confusion
 
 
 -------------------------
