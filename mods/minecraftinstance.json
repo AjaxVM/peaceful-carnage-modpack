@@ -30,8 +30,8 @@
   "allocatedMemory": 5014,
   "guid": "29f2ab34-0f3e-409d-9fbf-bf7c8fce85bc",
   "gameTypeID": 432,
-  "installPath": "D:\\TwitchLauncher\\Minecraft\\Instances\\Peaceful Carnage (1)\\",
-  "name": "Peaceful Carnage (1)",
+  "installPath": "D:\\TwitchLauncher\\Minecraft\\Instances\\Peaceful Carnage\\",
+  "name": "Peaceful Carnage",
   "cachedScans": [
     {
       "folderName": "pamscookables-1.1.jar",
