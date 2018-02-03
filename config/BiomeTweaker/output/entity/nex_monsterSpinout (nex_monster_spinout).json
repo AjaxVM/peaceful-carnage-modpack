@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:monsterSpinout",
+  "Registry ID": "nex:monster_spinout",
+  "Class": "nex.entity.monster.EntitySpinout"
+}

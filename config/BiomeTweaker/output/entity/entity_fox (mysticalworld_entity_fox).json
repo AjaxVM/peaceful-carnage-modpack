@@ -1,0 +1,6 @@
+
+{
+  "Name": "entity_fox",
+  "Registry ID": "mysticalworld:entity_fox",
+  "Class": "elucent.mysticalworld.entity.EntityFox"
+}

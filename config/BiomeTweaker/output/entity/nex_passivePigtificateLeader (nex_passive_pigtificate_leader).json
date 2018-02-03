@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:passivePigtificateLeader",
+  "Registry ID": "nex:passive_pigtificate_leader",
+  "Class": "nex.entity.passive.EntityPigtificateLeader"
+}

@@ -1,0 +1,71 @@
+
+{
+  "ID": 114,
+  "Name": "Arctic Abyss",
+  "Resource Location": "nex:arctic_abyss",
+  "Class": "nex.world.biome.BiomeArcticAbyss",
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "nex:block_ice_frostburn",
+  "Filler Block": "nex:block_netherrack[type\u003dicy]",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "16777215",
+  "Temperature": 0.0,
+  "Humidity": 0.0,
+  "Water Tint": 16777215,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "WET",
+    "NETHER",
+    "COLD"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "com.progwml6.natura.entities.entity.passive.EntityImp",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 12
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "com.progwml6.natura.entities.entity.monster.EntityNitroCreeper",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 6
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false,
+  "BOP Generators": {
+    "FLOWERS Generators": [
+      {
+        "ID": "flora",
+        "Name": "glowshrooms"
+      },
+      {
+        "ID": "flora",
+        "Name": "miners_delight"
+      },
+      {
+        "ID": "columns",
+        "Name": "stone_formations"
+      },
+      {
+        "ID": "flora",
+        "Name": "roots"
+      }
+    ]
+  },
+  "BOP Owner": "OTHER",
+  "BOP Weight Map": {},
+  "BOP Climate Weights": {}
+}

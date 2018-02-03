@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:neutralGoldGolem",
+  "Registry ID": "nex:neutral_gold_golem",
+  "Class": "nex.entity.neutral.EntityGoldGolem"
+}

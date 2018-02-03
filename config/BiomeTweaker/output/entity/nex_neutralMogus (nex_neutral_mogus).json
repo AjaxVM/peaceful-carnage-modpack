@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:neutralMogus",
+  "Registry ID": "nex:neutral_mogus",
+  "Class": "nex.entity.neutral.EntityMogus"
+}

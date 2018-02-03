@@ -1,0 +1,6 @@
+
+{
+  "Name": "nex:monsterGhastling",
+  "Registry ID": "nex:monster_ghastling",
+  "Class": "nex.entity.monster.EntityGhastling"
+}
