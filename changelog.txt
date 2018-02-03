@@ -50,6 +50,7 @@ Made fish spawn just a little more frequently
 Reduced frequency of Natura berry bushes
 Disabled Simple Ores tools (like vanilla above wood)
 Tweaked ToroCraft to make boss tougher, structures spawn further apart, and made toro health higher but damage lower
+Disabled more tools - should now be any tools with tinkers equivalent (or that break progression)
 
 ---------------------------
 
