@@ -12,6 +12,7 @@ Immersive HempCraft
 Primitive Mobs
 Pam's Cookables - Pam's Harvestcraft Addon - Issue #84
 Water Strainer - Issue #88
+Signpost (replaces floocraft)
 
 = Mods Removed =
 Gravestone Mod - Graves - Issue #85
@@ -20,6 +21,7 @@ Animalium - Issues #72,74
 Bloodmoon - Issues #80,86
 Just Another Rotten Flesh to Leather Mod - Issue #77
 Nature's Compass
+FlooCraft (too wonky)
 
 = Mods Updated =
 Mystic World - Issue #68
@@ -51,6 +53,8 @@ Reduced frequency of Natura berry bushes
 Disabled Simple Ores tools (like vanilla above wood)
 Tweaked ToroCraft to make boss tougher, structures spawn further apart, and made toro health higher but damage lower
 Disabled more tools - should now be any tools with tinkers equivalent (or that break progression)
+Tweaked clay recipe to be a bit better
+Disabled duckcraft blocks
 
 ---------------------------
 

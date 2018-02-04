@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2018-02-03T03:05:28.5066874Z",
+  "lastPlayed": "2018-02-04T04:07:52.9431255Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -30,8 +30,8 @@
   "allocatedMemory": 5014,
   "guid": "57a87a9e-1aaa-45bb-b0f9-7878bc81d243",
   "gameTypeID": 432,
-  "installPath": "D:\\TwitchLauncher\\Minecraft\\Instances\\Peaceful Carnage (1)\\",
-  "name": "Peaceful Carnage (1)",
+  "installPath": "D:\\TwitchLauncher\\Minecraft\\Instances\\Peaceful Carnage\\",
+  "name": "Peaceful Carnage",
   "cachedScans": [
     {
       "folderName": "CraftTweaker2-1.12-4.0.12.jar",
@@ -420,21 +420,6 @@
       "fileSize": 7235
     },
     {
-      "folderName": "mysticalworld-0.1.1.jar",
-      "fingerprint": 2973882825,
-      "fileDateHash": 2632491581,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2973882825
-      ],
-      "status": 1,
-      "timestamp": "2018-01-31T01:26:18.224171Z",
-      "lastWriteTimeUtc": "2018-01-30T00:00:17.8850937Z",
-      "queryTimestamp": "2018-02-02T15:43:15.7473741Z",
-      "fileCount": 1,
-      "fileSize": 48230
-    },
-    {
       "folderName": "CoralReef-2.2-1.12.2.jar",
       "fingerprint": 2101553901,
       "fileDateHash": 1784235541,
@@ -724,21 +709,6 @@
       "queryTimestamp": "2018-02-02T15:43:15.7498829Z",
       "fileCount": 1,
       "fileSize": 32317
-    },
-    {
-      "folderName": "Floocraft 1.12.2-1.8.jar",
-      "fingerprint": 1687495417,
-      "fileDateHash": 3848615644,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1687495417
-      ],
-      "status": 1,
-      "timestamp": "2018-01-29T23:54:42.4376653Z",
-      "lastWriteTimeUtc": "2018-01-09T19:19:54.8429533Z",
-      "queryTimestamp": "2018-02-02T15:43:15.7498829Z",
-      "fileCount": 1,
-      "fileSize": 217510
     },
     {
       "folderName": "toroquest-1.12.2-5.2.jar",
@@ -1324,21 +1294,6 @@
       "queryTimestamp": "2018-02-02T15:43:15.7569069Z",
       "fileCount": 1,
       "fileSize": 16612
-    },
-    {
-      "folderName": "elulib-0.1.11.jar",
-      "fingerprint": 3489609437,
-      "fileDateHash": 3841828265,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3489609437
-      ],
-      "status": 1,
-      "timestamp": "2018-01-31T01:26:18.2186524Z",
-      "lastWriteTimeUtc": "2018-01-30T00:00:17.753142Z",
-      "queryTimestamp": "2018-02-02T15:43:15.7569069Z",
-      "fileCount": 1,
-      "fileSize": 292911
     },
     {
       "folderName": "BiblioCraft[v2.4.3][MC1.12.0].jar",
@@ -4239,61 +4194,6 @@
       "manifestName": null
     },
     {
-      "addonID": 227782,
-      "gameInstanceID": "57a87a9e-1aaa-45bb-b0f9-7878bc81d243",
-      "installedFile": {
-        "Id": 2510729,
-        "FileName": "Floocraft 1.12.2-1.8.jar",
-        "FileNameOnDisk": "Floocraft 1.12.2-1.8.jar",
-        "FileDate": "2017-12-17T12:01:10.97",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2510/729/Floocraft 1.12.2-1.8.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "assets",
-            "Fingerprint": 502946087
-          },
-          {
-            "Foldername": "com",
-            "Fingerprint": 3965980098
-          },
-          {
-            "Foldername": "LICENSE",
-            "Fingerprint": 697443232
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 826912374
-          },
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          }
-        ],
-        "PackageFingerprint": 1687495417,
-        "GameVersion": [
-          "1.12.2"
-        ]
-      },
-      "dateInstalled": "2018-01-09T19:19:54.8429533Z",
-      "dateUpdated": "2018-01-09T19:19:54.8449572Z",
-      "dateLastUpdateAttempted": "2018-01-09T19:19:54.8449572Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 228027,
       "gameInstanceID": "57a87a9e-1aaa-45bb-b0f9-7878bc81d243",
       "installedFile": {
@@ -5559,121 +5459,6 @@
       "manifestName": null
     },
     {
-      "addonID": 277064,
-      "gameInstanceID": "57a87a9e-1aaa-45bb-b0f9-7878bc81d243",
-      "installedFile": {
-        "Id": 2506916,
-        "FileName": "elulib-0.1.11.jar",
-        "FileNameOnDisk": "elulib-0.1.11.jar",
-        "FileDate": "2017-12-05T22:00:10.083",
-        "ReleaseType": 2,
-        "FileStatus": 1,
-        "DownloadURL": "https://files.forgecdn.net/files/2506/916/elulib-0.1.11.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 3445250716
-          },
-          {
-            "Foldername": "elucent",
-            "Fingerprint": 1363799078
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 4057197346
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 4220613166
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3273911401
-          }
-        ],
-        "PackageFingerprint": 3489609437,
-        "GameVersion": [
-          "1.12.2"
-        ]
-      },
-      "dateInstalled": "2018-01-30T00:00:17.7546473Z",
-      "dateUpdated": "2018-01-30T00:00:17.7581603Z",
-      "dateLastUpdateAttempted": "2018-01-30T00:00:17.7581603Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 282940,
-      "gameInstanceID": "57a87a9e-1aaa-45bb-b0f9-7878bc81d243",
-      "installedFile": {
-        "Id": 2505994,
-        "FileName": "mysticalworld-0.1.1.jar",
-        "FileNameOnDisk": "mysticalworld-0.1.1.jar",
-        "FileDate": "2017-12-03T08:22:26.983",
-        "ReleaseType": 2,
-        "FileStatus": 1,
-        "DownloadURL": "https://files.forgecdn.net/files/2505/994/mysticalworld-0.1.1.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 277064,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "elucent",
-            "Fingerprint": 3131907981
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1515070843
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2804005630
-          },
-          {
-            "Foldername": "pack.mcmeta",
-            "Fingerprint": 3273911401
-          }
-        ],
-        "PackageFingerprint": 2973882825,
-        "GameVersion": [
-          "1.12.2"
-        ]
-      },
-      "dateInstalled": "2018-01-30T00:00:17.8855954Z",
-      "dateUpdated": "2018-01-30T00:00:17.8865983Z",
-      "dateLastUpdateAttempted": "2018-01-30T00:00:17.8865983Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
       "addonID": 253211,
       "gameInstanceID": "57a87a9e-1aaa-45bb-b0f9-7878bc81d243",
       "installedFile": {
@@ -6570,6 +6355,59 @@
       "dateInstalled": "2018-02-03T02:10:50.005545Z",
       "dateUpdated": "2018-02-03T02:10:50.007552Z",
       "dateLastUpdateAttempted": "2018-02-03T02:10:50.007552Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 261837,
+      "gameInstanceID": "57a87a9e-1aaa-45bb-b0f9-7878bc81d243",
+      "installedFile": {
+        "Id": 2526094,
+        "FileName": "signpost-1.12-1.07.1.jar",
+        "FileNameOnDisk": "signpost-1.12-1.07.1.jar",
+        "FileDate": "2018-01-30T19:36:43.523",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://files.forgecdn.net/files/2526/94/signpost-1.12-1.07.1.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2706570134
+          },
+          {
+            "Foldername": "gollorum",
+            "Fingerprint": 119517300
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2906125699
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 2984241879
+          }
+        ],
+        "PackageFingerprint": 163572218,
+        "GameVersion": [
+          "1.12.2",
+          "1.12.1",
+          "1.12"
+        ]
+      },
+      "dateInstalled": "2018-02-04T03:24:02.0882479Z",
+      "dateUpdated": "2018-02-04T03:24:02.0892511Z",
+      "dateLastUpdateAttempted": "2018-02-04T03:24:02.0892511Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
