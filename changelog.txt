@@ -1,4 +1,61 @@
 
+Version 0.7 - Feb 3, 2018
+
+= Mods Added =
+Simple Ores
+BiomeTweaker
+Custom Main Menu - Issue #67 (partial)
+Birds Nests - Issue #87
+Earthworks
+GraveStone Mod
+Immersive HempCraft
+Primitive Mobs
+Pam's Cookables - Pam's Harvestcraft Addon - Issue #84
+Water Strainer - Issue #88
+Signpost (replaces floocraft)
+
+= Mods Removed =
+Gravestone Mod - Graves - Issue #85
+Gravestone Mod - Extended - Issues #73,91
+Animalium - Issues #72,74
+Bloodmoon - Issues #80,86
+Just Another Rotten Flesh to Leather Mod - Issue #77
+Nature's Compass
+FlooCraft (too wonky)
+Mystic World
+
+= Config Tweaks =
+Disabled BoP berry bushes - Issue #71
+Disabled aggressive reptiles (except komodo) - Issue #69
+Made reptiles much less common - Issue #69
+Disabled unattainable ore references from Tinkers - Issue #66
+Made Moar Tinkers/PlusTiC respect each other better
+Disabled Chisel marble oregen - Issue #76
+Made Spawn Temple load faster and be made of marble
+Allowed Monster Jerky to be dried to leather - Issue #77
+Reduced amount of crops gotten from harvesting - Issue #79
+Tweaked crops to take a "tad" longer again
+Reconfigured Gravel Ore generation - Issue #81
+Somehow fixed Issue #82 without changing anything... (possibly just something clashing?)
+Tweaked apiary to not grant a queen as last loot - Issue #83
+Made animal spawns more frequent - Issue #93
+Added script to unify slates (Rustic, Better Agriculture, Earthworks) - Issue #94
+Disabled Farmland Biome (heavy lag)
+Set Biomes o' Plenty to default worldgen
+Calmed down the Coral Reef generation
+Removed Harvestcraft berry drops that clash with Natura bushes
+Removed Harvestcraft cotton (use naturas - which can't be eaten... derp)
+Enabled Natura cotton
+Made fish spawn just a little more frequently
+Reduced frequency of Natura berry bushes
+Disabled Simple Ores tools (like vanilla above wood)
+Tweaked ToroCraft to make boss tougher, structures spawn further apart, and made toro health higher but damage lower
+Disabled more tools - should now be any tools with tinkers equivalent (or that break progression)
+Tweaked clay recipe to be a bit better
+Disabled duckcraft blocks
+
+---------------------------
+
 Version 0.6 - Jan 25, 2018
 
 = Mods Added =
@@ -42,7 +99,6 @@ Added clay recipe (mud ball, stone, slimeball)
 Removed rustic apiary - Issue #52
 Updated InGameInfo to have ping and show a "LevelUp" announcement when you are at >10 levels
 Disabled some non-vanilla "vanilla-like" tools, and labelled them as "Prototype" to avoid confusion
-
 
 -------------------------
 

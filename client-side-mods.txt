@@ -1,5 +1,8 @@
+CustomMainMenu
 DefaultOptions
+HWYLA
 InGameInfoXML
 MapWriter
 MouseTweaks
-WAILA/HWYLA
+ResourceLoader?
+WAILA
