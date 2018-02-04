@@ -4291,8 +4291,13 @@ block earthworks:block_chalk * ffdad7cb
 block earthworks:block_cinder * ff979695
 block earthworks:block_cob * ffc5c3a6
 block earthworks:block_concrete * ffb5b3ad
-block earthworks:block_cordwood * ff87785d
-block earthworks:block_dry_stone * ff6a6a6a
+block earthworks:block_cordwood * ff8b7b60
+block earthworks:block_cordwood 3 ff87785d
+block earthworks:block_cordwood 5 ff87785d
+block earthworks:block_cordwood 9 ff87785d
+block earthworks:block_cordwood 11 ff87785d
+block earthworks:block_cordwood 15 ff87785d
+block earthworks:block_dry_stone * ff666666
 block earthworks:block_gabion_gravel * ff7e7c7a
 block earthworks:block_gabion_sand * ff7e7c7a
 block earthworks:block_gabion_dirt * ff7e7c7a
@@ -4321,7 +4326,7 @@ block earthworks:block_timber_spruce * ff231508
 block earthworks:block_timber_jungle * ff4b3a16
 block earthworks:block_timber_acacia * ff524d45
 block earthworks:block_timber_dark_oak * ff2a2011
-block earthworks:block_wattle * ffc5c2a4
+block earthworks:block_wattle * ffc1bea0
 block earthworks:block_wicker * ffa4834f
 block earthworks:block_wood_shingle * ff8e7449
 block earthworks:block_wood_shingle 1 ff5c452a
