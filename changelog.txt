@@ -1,5 +1,5 @@
 
-Version 0.7 - WIP
+Version 0.7 - Feb 3, 2018
 
 = Mods Added =
 Simple Ores
@@ -22,9 +22,7 @@ Bloodmoon - Issues #80,86
 Just Another Rotten Flesh to Leather Mod - Issue #77
 Nature's Compass
 FlooCraft (too wonky)
-
-= Mods Updated =
-Mystic World - Issue #68
+Mystic World
 
 = Config Tweaks =
 Disabled BoP berry bushes - Issue #71
