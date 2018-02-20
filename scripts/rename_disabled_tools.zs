@@ -61,25 +61,7 @@ val itemArray = [
     <natura:fusewood_sword>,
     <natura:netherquartz_pickaxe>,
     <natura:netherquartz_shovel>,
-    <natura:netherquartz_axe>,
-    <simpleores:copper_axe>,
-    <simpleores:copper_pickaxe>,
-    <simpleores:copper_shovel>,
-    <simpleores:copper_sword>,
-    <simpleores:tin_axe>,
-    <simpleores:tin_pickaxe>,
-    <simpleores:tin_shovel>,
-    <simpleores:tin_sword>,
-    <simpleores:mythril_axe>,
-    <simpleores:mythril_pickaxe>,
-    <simpleores:mythril_shovel>,
-    <simpleores:mythril_sword>,
-    <simpleores:adamantium_axe>,
-    <simpleores:adamantium_pickaxe>,
-    <simpleores:adamantium_shovel>,
-    <simpleores:onyx_axe>,
-    <simpleores:onyx_pickaxe>,
-    <simpleores:onyx_shovel>
+    <natura:netherquartz_axe>
 ] as IItemStack[];
 
 for item in itemArray {

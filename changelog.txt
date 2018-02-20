@@ -1,3 +1,33 @@
+Version 0.8 - Feb 19, 2018
+
+= Mods Added =
+Quark
+Realistic Torches
+TAIGA
+IguanaTweaks Reborn
+RoMiMoCo's Ores
+By The Gods #120
+
+= Mods Removed =
+Simpleores
+Funores
+Birds Nests
+Reptile Mod
+ToroQuest
+Twilight Forest #119
+BiomeTweaker
+
+= Config Tweaks =
+Fixed waystones not being craftable #105
+Modified main menu slightly... #67
+Disabled bushes in BoP... again... correctly this time... #107
+Tweaked spawn rates of lost miners #110
+Tweaked spawn rates of the lily lurkers
+Updated all mods to latest
+Updated README #70
+Fixed Rotten Flesh -> leather recipe...
+
+-------------------------------
 
 Version 0.7 - Feb 3, 2018
 

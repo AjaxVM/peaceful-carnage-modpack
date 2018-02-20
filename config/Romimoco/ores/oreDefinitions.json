@@ -1,0 +1,136 @@
+{
+	"OreList": [
+		{
+			"Name": "copper",
+			"Color": "0xcea81c",
+			"Harvestlevel": 2,
+			"Hardness": 2,
+			"Generation": {
+				"MinY": 40,
+				"MaxY": 75,
+				"SpawnChance": 10,
+				"VeinSize": 8
+			}
+		},
+		{
+			"Name": "tin",
+			"Color": "0xf7f0d7",
+			"Harvestlevel": 2,
+			"Hardness": 1.5,
+			"Generation": {
+				"MinY": 20,
+				"MaxY": 55,
+				"SpawnChance": 10,
+				"VeinSize": 6
+			}
+		},
+		{
+			"Name": "silver",
+			"Color": "0xfafafa",
+			"Harvestlevel": 3,
+			"Hardness": 2,
+			"Generation": {
+				"MinY": 5,
+				"MaxY": 30,
+				"SpawnChance": 6,
+				"VeinSize": 8
+			}
+		},
+		{
+			"Name": "lead",
+			"Color": "0x061528",
+			"Harvestlevel": 4,
+			"Hardness": 2.5,
+			"Generation": {
+				"MinY": 10,
+				"MaxY": 35,
+				"SpawnChance": 4,
+				"VeinSize": 8
+			}
+		},
+		{
+			"Name": "nickel",
+			"Color": "0xe0dfaa",
+			"Harvestlevel": 4,
+			"Hardness": 3,
+			"Generation": {
+				"MinY": 5,
+				"MaxY": 20,
+				"SpawnChance": 2,
+				"VeinSize": 4
+			}
+		},
+		{
+			"Name": "mithril",
+			"Color": "0x1faaba",
+			"Harvestlevel": 4,
+			"Hardness": 4.5,
+			"Generation": {
+				"MinY": 5,
+				"MaxY": 40,
+				"SpawnChance": 3,
+				"VeinSize": 20
+			}
+		},
+		{
+			"Name": "platinum",
+			"Color": "0x53cddb",
+			"Harvestlevel": 5,
+			"Hardness": 3,
+			"Generation": {
+				"MinY": 5,
+				"MaxY": 15,
+				"SpawnChance": 4,
+				"VeinSize": 6
+			}
+		},
+		{
+			"Name": "aluminium",
+			"Color": "0xe6ebed",
+			"Harvestlevel": 2,
+			"Hardness": 1,
+			"Generation": {
+				"MinY": 10,
+				"MaxY": 50,
+				"SpawnChance": 6,
+				"VeinSize": 7
+			}
+		},
+		{
+			"Name": "zinc",
+			"Color": "0xd8d8d8",
+			"Harvestlevel": 2,
+			"Hardness": 1.5,
+			"Generation": {
+				"MinY": 20,
+				"MaxY": 70,
+				"SpawnChance": 4,
+				"VeinSize": 8
+			}
+		},
+		{
+			"Name": "titanium",
+			"Color": "0x3567b2",
+			"Harvestlevel": 6,
+			"Hardness": 6.5,
+			"Generation": {
+				"MinY": 5,
+				"MaxY": 20,
+				"SpawnChance": 3,
+				"VeinSize": 7
+			}
+		},
+		{
+			"Name": "osmium",
+			"Color": "0x6289c4",
+			"Harvestlevel": 4,
+			"Hardness": 3.5,
+			"Generation": {
+				"MinY": 8,
+				"MaxY": 64,
+				"SpawnChance": 7,
+				"VeinSize": 8
+			}
+		}
+	]
+}

@@ -38,3 +38,4 @@ _**NOTE**: you may not need all these steps for hosted system that automatically
 _**NOTES**:_
 * Server should be configured with "allow_flight=true" in server.properties or Tornadoes can kick players :D
 * Server should be configured to use "level-type=BIOMESOP"
+* It is recommend to set spawn-protection to a lower value (4 is what I use) - this ensures people can use the doors to leave the spawn temple.

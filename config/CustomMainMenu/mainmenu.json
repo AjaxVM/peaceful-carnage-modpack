@@ -27,98 +27,105 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
+            "posX" : 48,
+            "posY" : -48,
+            "width" : 100,
             "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "singleplayer"
-            }
+            },
+            "alignment": "left_center"
         },
         
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
+            "posX" : 48,
+            "posY" : -24,
+            "width" : 100,
             "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
-            }
+            },
+            "alignment": "left_center"
         },
         
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
+            "posX" : 48,
+            "posY" : 0,
+            "width" : 100,
             "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "mods"
-            }
+            },
+            "alignment": "left_center"
         },
             
         "options":
         {
             "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 132,
-            "width" : 98,
+            "posX" : 48,
+            "posY" : 24,
+            "width" : 52,
             "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "options"
-            }
+            },
+            "alignment": "left_center"
         },
-        
-        "quit":
-        {
-            "text" : "menu.quit",
-            "posX" : 2,
-            "posY" : 132,
-            "width" : 98,
-            "height" : 20,
-            "action" : 
-            {
-                "type" : "quit"
-            }
-        },
-        
+
         "language":
         {
             "text" : "",
-            "posX" : -124,
-            "posY" : 132,
+            "posX" : 104,
+            "posY" : 24,
             "width" : 20,
             "height" : 20,
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "languages"
-            }
+            },
+            "alignment": "left_center"
         },
         
         "refresh":
         {
             "text" : "",
-            "posX" : -154,
-            "posY" : 132,
+            "posX" : 128,
+            "posY" : 24,
             "width" : 20,
             "height" : 20,
             "texture" : "custommainmenu:textures/gui/buttons.png",
             "action" : 
             {
                 "type" : "refresh"
-            }
+            },
+            "alignment": "left_center"
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 48,
+            "posY" : 48,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            },
+            "alignment": "left_center"
         }
     },
     

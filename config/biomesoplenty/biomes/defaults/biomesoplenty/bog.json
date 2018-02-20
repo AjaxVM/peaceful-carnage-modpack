@@ -1,11 +1,15 @@
 {
+  "enableRain": true,
   "canGenerateRivers": false,
   "beachBiomeLocation": "biomesoplenty:gravel_beach",
+  "rainfall": 0.9,
   "skyColor": -1,
+  "guiColour": 14193503,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
   "variationBelow": 7.0,
   "variationAbove": 10.0,
+  "waterColor": 16777215,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -29,8 +33,10 @@
     }
   },
   "fogColor": -1,
+  "temperature": 0.5,
   "canGenerateVillages": false,
   "canSpawnInBiome": true,
+  "enableSnow": false,
   "generators": {
     "cattail": {
       "with": {
@@ -293,14 +299,6 @@
       "enable": true
     },
     "bushes": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "bush"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 2.0,
       "enable": true
     },
     "mud": {

@@ -1,11 +1,11 @@
 {
   "canGenerateRivers": true,
-  "beachBiomeLocation": "biomesoplenty:gravel_beach",
+  "beachBiomeLocation": "minecraft:beaches",
   "skyColor": -1,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
   "variationBelow": 8.0,
-  "variationAbove": 15.0,
+  "variationAbove": 10.0,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -14,17 +14,16 @@
     }
   },
   "fillerBlock": {
-    "block": "minecraft:dirt",
+    "block": "minecraft:sand",
     "properties": {
-      "snowy": "false",
-      "variant": "dirt"
+      "variant": "red_sand"
     }
   },
-  "averageHeight": 66.0,
+  "averageHeight": 72.0,
   "topBlock": {
-    "block": "minecraft:grass",
+    "block": "minecraft:sand",
     "properties": {
-      "snowy": "false"
+      "variant": "red_sand"
     }
   },
   "fogColor": -1,
@@ -40,17 +39,6 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 1.5,
-      "enable": true
-    },
-    "flowers": {
-      "with": {
-        "block": "minecraft:red_flower",
-        "properties": {
-          "type": "allium"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.5,
       "enable": true
     },
     "miners_delight": {
@@ -72,7 +60,7 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.2,
+      "amountPerChunk": 0.5,
       "enable": true
     },
     "stone_formations": {
@@ -101,117 +89,87 @@
       "amountPerChunk": 4.0,
       "enable": true
     },
-    "water_reeds": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "reed"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.3,
-      "enable": true
-    },
     "trees": {
-      "logState": {
-        "block": "minecraft:log",
-        "properties": {
-          "axis": "y",
-          "variant": "oak"
-        }
-      },
-      "amountPerChunk": 1.0,
-      "enable": true,
-      "leavesState": {
-        "block": "minecraft:leaves",
-        "properties": {
-          "check_decay": "true",
-          "decayable": "true",
-          "variant": "oak"
-        }
-      }
-    },
-    "gravel": {
-      "with": {
-        "block": "minecraft:gravel",
-        "properties": {}
-      },
-      "maxRadius": 7,
-      "amountPerChunk": 4.0,
-      "enable": true
-    },
-    "sand": {
-      "with": {
-        "block": "minecraft:sand",
-        "properties": {
-          "variant": "sand"
-        }
-      },
-      "maxRadius": 7,
       "amountPerChunk": 3.0,
-      "enable": true
-    },
-    "flax": {
-      "with": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "lower",
-          "variant": "flax"
-        }
-      },
-      "generationAttempts": 6,
-      "amountPerChunk": 0.1,
-      "enable": true,
-      "withTop": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "upper",
-          "variant": "flax"
-        }
-      }
-    },
-    "berry_bushes": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "berrybush"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.1,
-      "enable": false
-    },
-    "grass": {
-      "amountPerChunk": 1.5,
       "enable": true,
       "generators": {}
     },
-    "peridot": {
+    "ruby": {
       "minHeight": 4,
       "with": {
         "block": "biomesoplenty:gem_ore",
         "properties": {
-          "variant": "peridot"
+          "variant": "ruby"
         }
       },
       "amountPerChunk": 12.0,
       "maxHeight": 32,
       "enable": true
     },
-    "bushes": {
+    "tiny_cacti": {
       "with": {
-        "block": "biomesoplenty:plant_0",
+        "block": "biomesoplenty:plant_1",
         "properties": {
-          "variant": "bush"
+          "variant": "tinycactus"
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.3,
+      "amountPerChunk": 1.0,
+      "enable": true
+    },
+    "grass_splatter": {
+      "with": {
+        "block": "biomesoplenty:grass",
+        "properties": {
+          "snowy": "false",
+          "variant": "sandy"
+        }
+      },
+      "generationAttempts": 128,
+      "amountPerChunk": 8.0,
+      "enable": true
+    },
+    "dead_bushes": {
+      "with": {
+        "block": "minecraft:deadbush",
+        "properties": {}
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 2.0,
+      "enable": true
+    },
+    "grass": {
+      "amountPerChunk": 16.0,
+      "enable": true,
+      "generators": {}
+    },
+    "cacti": {
+      "minHeight": 1,
+      "with": {
+        "block": "minecraft:cactus",
+        "properties": {
+          "age": "0"
+        }
+      },
+      "generationAttempts": 24,
+      "amountPerChunk": 0.5,
+      "maxHeight": 2,
+      "enable": true,
+      "randomDirection": false
+    },
+    "desertgrass": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "desertgrass"
+        }
+      },
+      "generationAttempts": 8,
+      "amountPerChunk": 10.0,
       "enable": true
     }
   },
   "weights": {
-    "mediteranean": 7,
-    "dry_temperate": 10
+    "hot_desert": 7
   }
 }
