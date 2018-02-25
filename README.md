@@ -26,7 +26,7 @@ Good luck, and have fun!
 _**NOTE**: this is for windows - though instructions should be similar for any system_
 
 _**NOTE**: you may not need all these steps for hosted system that automatically support forge_
-1) Download the windows installer for forge for Minecraft 1.12.2 (I have built most recently off of "forge-1.12.2-14.23.1.2583" - mileage may vary with newer/older forge version)
+1) Download the windows installer for forge for Minecraft 1.12.2 (I have built most recently off of "forge-1.12.2-14.23.2.2619" - mileage may vary with a newer/older forge version)
 2) Run installer and create a directory for your server it installs into.
 3) After running the ModPack in singleplayer at least once, you can click the three vertical dots (refer to Installation instructions step 6) and select "Open Folder".
 4) Copy the "mods", "config", and "scripts" directories from the Twitch Instance directory to the one you created in step 2.
@@ -38,3 +38,4 @@ _**NOTE**: you may not need all these steps for hosted system that automatically
 _**NOTES**:_
 * Server should be configured with "allow_flight=true" in server.properties or Tornadoes can kick players :D
 * Server should be configured to use "level-type=BIOMESOP"
+* It is recommend to set spawn-protection to a lower value (4 is what I use) - this ensures people can use the doors to leave the spawn temple.

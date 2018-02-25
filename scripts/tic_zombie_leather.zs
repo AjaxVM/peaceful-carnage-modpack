@@ -1,1 +1,2 @@
-mods.tconstruct.Drying.addRecipe(<minecraft:leather>,<minecraft:rotten_flesh>, 100);
+
+mods.tconstruct.Drying.addRecipe(<minecraft:leather>, <tconstruct:edible:10>, 15000);
