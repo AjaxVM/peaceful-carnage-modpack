@@ -61,7 +61,7 @@
   "tundra": 89,
   "undergarden": 108,
   "origin_island": 100,
-  "gravel_beach": 40,
+  "gravel_beach": -1,
   "grove": 59,
   "lavender_fields": 62,
   "rainforest": 78,
